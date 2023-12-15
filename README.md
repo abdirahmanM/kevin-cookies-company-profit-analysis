@@ -11,3 +11,5 @@ Units sold by product ![Tres](https://github.com/abdirahmanM/kevin-cookies-compa
 
 Countries and products ![four](https://github.com/abdirahmanM/kevin-cookies-company-profit-analysis/assets/146730667/b25d67a3-0343-4c22-b2f6-9705c2e2511d)
 
+Here is an example of pivot table
+![Screenshot (19)](https://github.com/abdirahmanM/kevin-cookies-company-profit-analysis/assets/146730667/c2f22d9f-7a83-4541-9fc7-c6606fd2d69a)
