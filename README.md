@@ -1,4 +1,5 @@
-a# kevin-cookies-company-profit-analysis
+# kevin-cookies-company-profit-analysis
+## Aim of the project
 Overview of the project
 ![image](https://github.com/abdirahmanM/kevin-cookies-company-profit-analysis/assets/146730667/a4afac67-7770-4086-bbd2-62b1c10182c5)
 In this project, I was given data that showed the products of different countries and how much profit was made when the products were sold. I then made a dashborad that was interactive which showed how much profit was made each month. 
@@ -13,3 +14,5 @@ Countries and products ![four](https://github.com/abdirahmanM/kevin-cookies-comp
 
 Here is an example of pivot table
 ![Screenshot (19)](https://github.com/abdirahmanM/kevin-cookies-company-profit-analysis/assets/146730667/c2f22d9f-7a83-4541-9fc7-c6606fd2d69a)
+
+** Conclusion
