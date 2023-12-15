@@ -4,3 +4,4 @@ Overview of the project
 In this project, I was given data that showed the products of different countries and how much profit was made when the products were sold. I then made a dashborad that was interactive which showed how much profit was made each month. 
 
 profit by month
+https://github.com/abdirahmanM/kevin-cookies-company-profit-analysis/blob/main/Uno.png
